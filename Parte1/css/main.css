@@ -1,0 +1,21 @@
+.rojo{
+	background-color: #ED462F;
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+.morado{
+	background-color: #752E80;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: 50px;
+	left: 50px;
+}
+.amarillo{
+	background-color: #FFF835;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 0;
+}
